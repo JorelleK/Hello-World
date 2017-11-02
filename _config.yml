@@ -1,0 +1,13 @@
+# basic options
+title: My Dialy Blog
+author: Jorelle Kebeto
+email: jktechexpress@gmail.com
+description: A wonderful blog
+facebook: jorellelafleur17
+github_username: jorellek
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+
